@@ -118,4 +118,4 @@ This dataset is related to housing prices in Ames, Iowa, and is designed to faci
   </div>
 </div>
 
-<a href="https://www.kaggle.com/datasets/fedesoriano/cern-electron-collision-data" target="_blank">Dataset</a>
+<a href="https://www.kaggle.com/code/mesutssmn/house-price-prediction/comments?scriptVersionId=188566664" target="_blank">Dataset</a>
